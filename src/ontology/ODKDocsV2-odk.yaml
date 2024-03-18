@@ -1,0 +1,17 @@
+id: ODKDocsV2
+title: ODKv1.5 test documentation
+github_org: pfabry
+repo: ODKDocsV2
+documentation:
+  documentation_system: mkdocs
+release_artefacts:
+  - base
+  - full
+primary_release: full
+export_formats:
+  - owl
+import_group:
+  products:
+    - id: bfo
+      module_type: mirror
+robot_java_args: "-Xmx8G"
