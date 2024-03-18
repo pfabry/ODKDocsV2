@@ -1,0 +1,8 @@
+
+http://purl.obolibrary.org/obo/ODKDOCSV2_0000000
+http://purl.obolibrary.org/obo/ODKDocsV2.owl
+http://purl.org/dc/terms/description
+http://purl.org/dc/terms/license
+http://purl.org/dc/terms/title
+https://creativecommons.org/licenses/unspecified
+term
