@@ -15,3 +15,4 @@ import_group:
     - id: bfo
       module_type: mirror
 robot_java_args: "-Xmx8G"
+run_as_root: TRUE
